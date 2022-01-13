@@ -448,7 +448,7 @@ a {
      object-fit: contain;
   height: 120vh;
   background-position: center center;
-  margin-top: -90vh;
+  margin-top: -95vh;
   -webkit-animation-name: floating;
           animation-name: floating;
   -webkit-animation-duration: 5s;
